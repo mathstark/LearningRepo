@@ -1,0 +1,23 @@
+[33mcommit 950c15ec9c0fd3c05ee712e47dd3044e9627021c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: matplas <mathplas@hotmail.com>
+Date:   Wed Sep 29 17:07:30 2021 +0100
+
+    Added Funtions.py and Booklist.py
+
+[33mcommit bf627fb35aa8b8e590b0826e478131819aacdb5f[m
+Author: matplas <mathplas@hotmail.com>
+Date:   Wed Sep 29 11:38:24 2021 +0100
+
+    Added the book lists
+
+[33mcommit 9c75c91ab7dbcf086d839c4c682aa299cd790b5b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: mathstark <89516770+mathstark@users.noreply.github.com>
+Date:   Mon Sep 20 11:39:03 2021 +0100
+
+    Create README_real.txt
+
+[33mcommit 1eb3d3979239ed8379e45890356ef2f1899a9919[m
+Author: mathstark <89516770+mathstark@users.noreply.github.com>
+Date:   Mon Sep 20 11:37:17 2021 +0100
+
+    Initial commit
